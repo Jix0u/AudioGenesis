@@ -1,1 +1,1 @@
-# Hype Audio Gen
+# Audio Gen
