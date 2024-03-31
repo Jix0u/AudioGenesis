@@ -1,1 +1,1 @@
-# ComposerML
+# Hype Audio Gen
